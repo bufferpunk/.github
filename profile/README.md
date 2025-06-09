@@ -1,4 +1,4 @@
-# 🏞️ Buffer Park
+# 🐵 Buffer Punk
 
 **Welcome to Buffer Park — Where Innovation Meets Precision.**
 
@@ -14,7 +14,7 @@ To craft clean, powerful, and efficient software that developers love and busine
 
 ## 🔧 Projects
 
-### 🧠 [Deploy Bash](https://github.com/Scion-Kin/deployer)
+### 🧠 [Deploy](https://github.com/Scion-Kin/deployer)
 > A zero-fluff Bash deployment tool for real-world production apps.  
 > Fully tested, battle-ready, and already powering multiple projects.
 
@@ -41,5 +41,3 @@ We're building for the community and with the community.
 ## 📢 Stay Tuned
 
 Follow the org, star the projects, and get ready — Buffer Park is just getting started.
-
----

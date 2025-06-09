@@ -14,7 +14,7 @@ To craft clean, powerful, and efficient software that developers love and busine
 
 ## 🔧 Projects
 
-### 🧠 [Deploy Bash](https://github.com/Buffer-Park/deployer)
+### 🧠 [Deploy Bash](https://github.com/Scion-Kin/deployer)
 > A zero-fluff Bash deployment tool for real-world production apps.  
 > Fully tested, battle-ready, and already powering multiple projects.
 
